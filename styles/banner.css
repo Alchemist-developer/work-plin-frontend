@@ -1,0 +1,23 @@
+.section-intro-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 10%;
+}
+
+.section-intro-container h1 {
+    font-size: 45px;
+}
+
+.section-text {
+    width: 30%;
+    text-align: center;
+}
+
+.section-img {
+    margin-left: 80px;
+}
+
+.section-img img {
+ width: 55%;
+}

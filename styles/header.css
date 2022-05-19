@@ -1,0 +1,18 @@
+.header-container {
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.header-logo {
+     text-shadow: 3px 2px 3px rgba(0, 0, 0, 0.313);
+}
+
+.header-container a {
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+}
+
